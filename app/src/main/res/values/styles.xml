@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- 툴바 백그라운드 컬러 -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <!-- 툴바 백그라운드 컬러(다크) -->
+        <item name="colorPrimaryDark">@color/primaryColorDark</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+    <style name="MyCustomToolBarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <!-- 툴바 택스트 컬러 -->
+        <item name="android:textColorPrimary">#fff</item>
+        <!-- 툴바 아이콘 컬러(drawer 등) -->
+        <item name="android:textColorSecondary">#fff</item>
+    </style>
+</resources>

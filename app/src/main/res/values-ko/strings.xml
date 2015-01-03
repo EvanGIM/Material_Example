@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Material 샘플</string>
+    <string name="title_activity_main">Material 샘플</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">설정</string>
+    <string name="title_activity_sub">Material 샘플 - 서브</string>
+    <string name="next">다음</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">열기</string>
+    <string name="drawer_close">닫기</string>
+    <string name="toast_text">토스트!!</string>
+    <string name="welcome">메테리얼 샘플 어플에 오신것을 환영합니다.</string>
+
+</resources>
